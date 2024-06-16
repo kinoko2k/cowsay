@@ -1,0 +1,15 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "say": "node index.js"
+  },
+  "keywords": [],
+  "author": "kinoko2k",
+  "license": "MIT",
+  "description": "",
+  "publishConfig": {
+    "@kinoko2k:registry": "https://npm.pkg.github.com"
+  }
+}
